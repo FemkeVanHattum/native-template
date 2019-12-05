@@ -667,7 +667,7 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2E683DD88AD2190EB6610BB7 /* Pods-ReactNative-nativeTemplate.debug.xcconfig */;
+			baseConfigurationReference = EBC80A6022DF4205007E5F3D /* config.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -740,7 +740,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CBB85EF00DCBBB622B4C25E7 /* Pods-ReactNative-nativeTemplate.release.xcconfig */;
+			baseConfigurationReference = EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -897,7 +897,6 @@
 		};
 		1A0B3AE32397FF0900388BF7 /* ReleaseDevApp */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -944,7 +943,7 @@
 		};
 		1A0B3AE42397FF0900388BF7 /* ReleaseDevApp */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 64F8A8A81DAAF68662AD5926 /* Pods-ReactNative-nativeTemplate.releasedevapp.xcconfig */;
+			baseConfigurationReference = EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -1058,7 +1057,6 @@
 		};
 		83CBBA201A601CBA00E9B192 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EBC80A6022DF4205007E5F3D /* config.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1112,7 +1110,6 @@
 		};
 		83CBBA211A601CBA00E9B192 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
